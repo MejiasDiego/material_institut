@@ -43,7 +43,7 @@ Projecte Java per a la gestió d'inventari i préstecs de material a l'Institut 
 ---
 
 ## 📖 Generació del Javadoc
-1. A Eclipse, anar a **Project → Generate Javadoc...**.
+1. A Eclipse, anar a **File → Generate Javadoc...**.
 2. Seleccionar el projecte `material_institut`.
 3. Escollir la carpeta de destinació: `doc/`.
 4. Confirmar i generar.
