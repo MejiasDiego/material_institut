@@ -5,17 +5,21 @@ Projecte Java per a la gestió d'inventari i préstecs de material a l'Institut 
 ---
 
 ## 📂 Contingut del repositori
-- `src/` → Codi font Java amb les classes:
-  - `Categoria`
-  - `Material`
-  - `Prestec`
-  - `InventariRepository`
-  - `InventariService`
-  - `Main`
+- `src/` → Codi font Java organitzat en paquets:
+  - **Paquet `model`**
+    - `Categoria`
+    - `Material`
+    - `Prestec`
+  - **Paquet `repository`**
+    - `InventariRepository`
+  - **Paquet `service`**
+    - `InventariService`
+  - **Classe `Main`** → punt d’entrada per proves i execució del sistema.
 - `doc/` → Carpeta amb el Javadoc generat des d’Eclipse.
 - `Documentacio_Usuari.pdf` → Guia per a professors i personal del centre.
 - `Documentacio_Tecnica.pdf` → Guia per a programadors i mantenidors.
 - `README.md` → Aquest document.
+
 
 ---
 
