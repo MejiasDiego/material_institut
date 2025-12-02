@@ -62,5 +62,63 @@ Projecte Java per a la gestió d'inventari i préstecs de material a l'Institut 
 
 ---
 
+## 💻 Exemple de sessió d'ús
+
+A continuació es mostra una execució típica del programa amb la classe `Main`:
+
+=== MENÚ INVENTARI ===
+1. Afegir material
+2. Llistar materials
+3. Fer préstec
+4. Retornar material
+0. Sortir
+Opció: 1
+Nom del material: Ordinador portàtil
+Categoria: Informàtica
+Material afegit correctament.
+
+=== MENÚ INVENTARI ===
+1. Afegir material
+2. Llistar materials
+3. Fer préstec
+4. Retornar material
+0. Sortir
+Opció: 1
+Nom del material: Projector
+Categoria: Audiovisual
+Material afegit correctament.
+
+=== MENÚ INVENTARI ===
+Opció: 2
+Materials a l'inventari:
+- Ordinador portàtil (Informàtica) [Disponible]
+- Projector (Audiovisual) [Disponible]
+
+=== MENÚ INVENTARI ===
+Opció: 3
+Nom del material a prestar: Ordinador portàtil
+Préstec realitzat correctament.
+
+=== MENÚ INVENTARI ===
+Opció: 2
+Materials a l'inventari:
+- Ordinador portàtil (Informàtica) [Prestat]
+- Projector (Audiovisual) [Disponible]
+
+=== MENÚ INVENTARI ===
+Opció: 4
+Nom del material a retornar: Ordinador portàtil
+Material retornat correctament.
+
+=== MENÚ INVENTARI ===
+Opció: 2
+Materials a l'inventari:
+- Ordinador portàtil (Informàtica) [Disponible]
+- Projector (Audiovisual) [Disponible]
+
+=== MENÚ INVENTARI ===
+Opció: 0
+Sortint del sistema...
+
 ## 📌 Autor
 Pràctica realitzada per **Diego Mejias** dins del mòdul DAWTM05_0487 - DAW2.
