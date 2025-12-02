@@ -34,7 +34,7 @@ Projecte Java per a la gestió d'inventari i préstecs de material a l'Institut 
 4. Llistar materials amb `llistarMaterials()`.
 5. Fer préstecs amb `ferPrestec(...)` i retornar amb `retornarMaterial(...)`.
 
-*(He afegir una classe `Main` per fer proves ràpides amb un `public static void main(String[] args)`.)*
+*(He afegit una classe `Main` per fer proves ràpides amb un `public static void main(String[] args)`.)*
 
 ---
 
